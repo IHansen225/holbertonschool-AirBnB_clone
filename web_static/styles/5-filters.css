@@ -43,8 +43,10 @@
 	padding: 5%;
 }
 
-.container .filter-text p{
-	margin: 1.5% 0;	
+.container .filter-text h4 {
+	margin: 1.5% 0;
+	font-weight: 400;
+	font-size: 14px;
 }
 
 .container .filter-text h3 {
