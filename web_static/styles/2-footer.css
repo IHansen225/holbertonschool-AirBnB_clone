@@ -1,10 +1,16 @@
 footer {
+    position: absolute;
+    bottom: 0;
     background-color: #00FF00;
     height: 60px;
     width: 100%;
-    bottom: 0;
-    position: fixed;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+footer .hb-placeholder {
+    position: relative;
+    text-align: center;
+    margin: auto 0;
 }

@@ -7,11 +7,10 @@ body {
     padding: 0;
     color: #484848;
     font-size: 14px;
-    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Circular,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
 .container {
     width: max(1000px);
     margin: 30px auto;
-    top: 30px;
 }
